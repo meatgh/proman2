@@ -18,5 +18,7 @@
         <version>2.0.1.RELEASE</version>
     </parent>
 
+    <!-- adding for git test -->
+
 
 </project>
