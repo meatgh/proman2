@@ -10,6 +10,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>proman-api</module>
+        <module>proman-db</module>
     </modules>
 
     <parent>
@@ -17,10 +18,4 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.0.1.RELEASE</version>
     </parent>
-
-    <!-- adding for git test -->
-    <!-- adding for git test -->
-    <!-- adding for git test -->
-
-
 </project>
